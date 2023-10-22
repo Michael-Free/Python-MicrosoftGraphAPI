@@ -10,11 +10,6 @@ A simple Python utility for obtaining Azure Graph API tokens.
 ## Description
 
 This script provides a class, AzureAuthToken, that allows users to obtain an access token for the Graph API. This is useful for applications that need to communicate with Microsoft Azure services and require authentication.
-Dependencies
-
-    json
-    requests
-    jsonschema
 
 ### How to use
 Initialization:
@@ -48,7 +43,6 @@ The script prints the error status code and response text if the token retrieval
 ## GraphAPI: AzureAD Class for Microsoft Graph API
 
 This class provides functionalities to interact with Microsoft's Graph API, specifically tailored to user data.
-Schema Definition
 
 The GraphAPI class includes a schema user_schema that details the expected structure and required fields of user data in AzureAD.
 Initialization
