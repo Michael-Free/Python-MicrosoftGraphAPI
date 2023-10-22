@@ -6,7 +6,8 @@ You will need to have the correct permissions added to your token in Azure to ha
 ## Azure Auth Token Getter
 
 A simple Python utility for obtaining Azure Graph API tokens.
-Description
+
+## Description
 
 This script provides a class, AzureAuthToken, that allows users to obtain an access token for the Graph API. This is useful for applications that need to communicate with Microsoft Azure services and require authentication.
 Dependencies
